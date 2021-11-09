@@ -1,0 +1,58 @@
+﻿l_english:
+ # Modded content
+ # Vettes
+ RIG_ASC_CORVETTE_1M2S: "Striker Core (£alloys£ 45)"
+ RIG_ASC_CORVETTE_1M2P: "Interceptor Core (£alloys£ 50)"
+ RIG_ASC_CORVETTE_1G2P: "Shifter Core (£alloys£ 60)"
+
+ # Destroyers
+ RIG_ASC_DESTROYER_BOW_1L: "Faith Breaker (£alloys£ 50)"
+ RIG_ASC_DESTROYER_BOW_1G: "Hope Breaker (£alloys£ 50)"
+ RIG_ASC_DESTROYER_BOW_1M4S: "Fortune Breaker (£alloys£ 50)"
+ RIG_ASC_ESCORT_BOW: "Neo Breaker (£alloys£ 70)"
+
+ RIG_ASC_DESTROYER_STERN_4A: "Epoch Bulwark (£alloys£ 50)"
+ RIG_ASC_DESTROYER_STERN_4S: "Flash Bulwark (£alloys£ 50)"
+ RIG_ASC_DESTROYER_STERN_4P: "Shine Bulwark (£alloys£ 55)"
+ RIG_ASC_ESCORT_STERN: "Storm Bulwark (£alloys£ 55)"
+
+ # Cruisers
+ RIG_ASC_CRUISER_BOW_1L2M: "Guard Breaker (£alloys£ 80)"
+ RIG_ASC_CRUISER_BOW_2M4S: "Screen Breaker (£alloys£ 80)"
+ RIG_ASC_CRUISER_BOW_2G: "Chain Breaker (£alloys£ 80)"
+
+ RIG_ASC_CRUISER_MID_2L: "Punisher Core (£alloys£ 90)"
+ RIG_ASC_CRUISER_MID_4P2H: "Spectral Core (£alloys£ 90)"
+ RIG_ASC_CRUISER_MID_4M: "Reaper Core (£alloys£ 90)"
+ RIG_ASC_CRUISER_MID_2G: "Wrath Core (£alloys£ 90)"
+
+ RIG_ASC_CRUISER_STERN_2M: "Protector Bulwark (£alloys£ 70)"
+ RIG_ASC_CRUISER_STERN_4S: "Guardian Bulwark (£alloys£ 70)"
+
+ # Battleships
+ RIG_ASC_BATTLESHIP_BOW_1X2M: "Titan Breaker (£alloys£ 140)"
+ RIG_ASC_BATTLESHIP_BOW_2L4M: "Pulse Breaker (£alloys£ 140)"
+ RIG_ASC_BATTLESHIP_BOW_4P4S2H: "Mass Breaker (£alloys£ 140)"
+ RIG_ASC_BATTLESHIP_BOW_4M4S: "Soul Breaker (£alloys£ 140)"
+ RIG_ASC_BATTLESHIP_BOW_ANCIENT: "Ancient (£alloys£ 140)"
+
+ RIG_ASC_BATTLESHIP_MID_2L4M4S: "Singularity Core (£alloys£ 160)"
+ RIG_ASC_BATTLESHIP_MID_4L2M: "Nova Core (£alloys£ 140)"
+ RIG_ASC_BATTLESHIP_MID_4M4H: "Vengeance Core (£alloys£ 160)"
+ RIG_ASC_BATTLESHIP_MID_6H4P: "Stormbringer Core (£alloys£ 180)"
+ RIG_ASC_BATTLESHIP_MID_PRECURSOR: "Precursor (£alloys£ 120)"
+
+ RIG_ASC_BATTLESHIP_STERN_2L: "Aeon Bulwark (£alloys£ 125)"
+ RIG_ASC_BATTLESHIP_STERN_2M4S: "Zenith Bulwark (£alloys£ 125)"
+ RIG_ASC_BATTLESHIP_STERN_PARAGON: "Paragon (£alloys£ 50)"
+
+ # Titan
+ ASC_TITAN_BOW: "Star Breaker (£alloys£ 400)"
+ ASC_TITAN_MID: "Hellfire Core (£alloys£ 380)"
+ ASC_TITAN_STERN: "Eterna Bulwark (£alloys£ 250)"
+
+ # Juggernaut
+ RIG_ASC_JUGGERNAUT_CORE: "Galaxion (£alloys£ 1770)"
+
+ # Ion cannon
+ RIG_ASC_ION_CANNON_CORE: "Hyperion (£alloys£ 375)"

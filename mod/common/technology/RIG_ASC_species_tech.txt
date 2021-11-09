@@ -1,0 +1,37 @@
+tech_RIG_ascendant_engineering_corvette = {
+	icon = tech_corvettes
+	cost = 0
+	area = engineering
+	tier = 0
+
+	is_rare = yes
+	is_dangerous = yes
+
+	category = { voidcraft }
+	prerequisites = { "tech_space_construction" }
+	weight = 0
+	is_reverse_engineerable = no
+
+	feature_flags = {
+		racial_ship_roles
+	}
+
+	potential = {
+		has_global_flag = rigus_installed
+	}
+
+	prereqfor_desc = {
+		custom = {
+			title = "TECH_UNLOCK_RIG_ASCENDANT_ENGINEERING_CORVETTE_TITLE"
+			desc = "TECH_UNLOCK_RIG_ASCENDANT_ENGINEERING_CORVETTE_TITLE"
+		}
+
+		ship = {
+			title = "TECH_UNLOCK_RIG_ASCEND_CORVETTE_TITLE"
+			desc = "TECH_UNLOCK_RIG_ASCEND_CORVETTE_DESC"
+		}
+	}
+
+	weight_modifier = { factor = 0 }
+	ai_weight = { factor = 0 }
+}

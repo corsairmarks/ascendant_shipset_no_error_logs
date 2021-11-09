@@ -1,0 +1,10 @@
+objectTypes = {
+	pdxmesh = {
+		name = "ascendant_01_juggernaut_mesh"
+		file = "gfx/models/ships/ascendant_01/juggernaut/ascendant_01_juggernaut.mesh"
+	}
+	pdxmesh = {
+		name = "ascendant_01_juggernaut_mesh_2"
+		file = "gfx/models/ships/ascendant_01/juggernaut/ascendant_01_juggernaut_01.mesh"
+	}
+}

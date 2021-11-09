@@ -1,0 +1,47 @@
+entity = {
+	name = "ascendant_01_spyorb_phase_01_construction_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_1" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "ringworld_construction_ambient" } }
+	}
+	cull_radius = 500
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_02_construction_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_2" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "ringworld_construction_ambient" } }
+	}
+	cull_radius = 500
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_03_construction_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_3" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "ringworld_construction_ambient" } }
+	}
+	cull_radius = 500
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_04_construction_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_4" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "ringworld_construction_ambient" } }
+	}
+	cull_radius = 500
+}

@@ -1,0 +1,11 @@
+objectTypes = {
+	pdxmesh = {
+		name = "ascendant_01_gateway_mesh"
+		file = "gfx/models/ships/ascendant_01/megastructures/gateway/ascendant_01_gateway.mesh"
+	}
+
+	pdxmesh = {
+		name = "ascendant_01_gateway_portal_mesh"
+		file = "gfx/models/ships/ascendant_01/megastructures/gateway/ascendant_01_gateway_portal.mesh"
+	}
+}

@@ -1,0 +1,43 @@
+objectTypes = {
+	pdxmesh = {
+		name = "ascendant_01_citadel_frame_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_citadel_frame.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "ascendant_01_outpost_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_01_outpost.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "ascendant_01_starport_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_01_starport.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "ascendant_01_starhold_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_01_starhold.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "ascendant_01_starfort_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_01_starfort.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "ascendant_01_citadel_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_01_citadel.mesh"
+		scale = 1.0
+	}
+
+	pdxmesh = {
+		name = "ascendant_ion_cannon_mesh"
+		file = "gfx/models/ships/ascendant_01/starbases/ascendant_01_ion_cannon.mesh"
+		scale = 1.0
+	}
+}

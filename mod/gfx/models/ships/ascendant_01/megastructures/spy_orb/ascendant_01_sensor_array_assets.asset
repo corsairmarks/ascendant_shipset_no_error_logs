@@ -1,0 +1,93 @@
+entity = {
+	name = "ascendant_01_sensor_array_stage_1"
+	pdxmesh = "ascendant_01_sensor_array_1_mesh"
+}
+
+entity = {
+	name = "ascendant_01_sensor_array_stage_2"
+	pdxmesh = "ascendant_01_sensor_array_2_mesh"
+}
+
+entity = {
+	name = "ascendant_01_sensor_array_stage_3"
+	pdxmesh = "ascendant_01_sensor_array_3_mesh"
+}
+
+entity = {
+	name = "ascendant_01_sensor_array_stage_4"
+	pdxmesh = "ascendant_01_sensor_array_4_mesh"
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_01_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_1" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle" # animation = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "spy_orb_hum_dome" } }
+	}
+	game_data = {
+		custom_texture = "gfx/models/ships/megastructures/spy_orb/spy_orb_01_construction_fadein.dds"
+	}
+	meshsettings = {
+		shader = "PdxMeshShip"
+	}
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_02_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_1" }
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_2" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle" # animation = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "spy_orb_hum_spire" } }
+	}
+	game_data = {
+		custom_texture = "gfx/models/ships/megastructures/spy_orb/spy_orb_01_construction_fadein.dds"
+	}
+	meshsettings = {
+		shader = "PdxMeshShip"
+	}
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_03_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_1" }
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_2" }
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_3" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle" # animation = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "spy_orb_hum_antennas" } }
+	}
+	game_data = {
+		custom_texture = "gfx/models/ships/megastructures/spy_orb/spy_orb_01_construction_fadein.dds"
+	}
+	meshsettings = {
+		shader = "PdxMeshShip"
+	}
+}
+
+entity = {
+	name = "ascendant_01_spyorb_phase_04_entity"
+	pdxmesh = "ascendant_01_habitat_frame_mesh"
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_1" }
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_2" }
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_3" }
+	attach = { "habitat_main" = "ascendant_01_sensor_array_stage_4" }
+	scale = 2
+	default_state = "idle"
+	state = { name = "idle" # animation = "idle"
+		start_event = { trigger_once = yes sound = { soundeffect = "spy_orb_hum_ring" } }
+	}
+	game_data = {
+		custom_texture = "gfx/models/ships/megastructures/spy_orb/spy_orb_01_construction_fadein.dds"
+	}
+	meshsettings = {
+		shader = "PdxMeshShip"
+	}
+}
