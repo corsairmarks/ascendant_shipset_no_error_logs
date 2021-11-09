@@ -26,6 +26,6 @@ Built for Stellaris version 3.1.* "Lem."  Not compatible with achievements.
 
 [h2]Changelog[/h2]
 
-See [url=]Change Notes[/url]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2649740498]Change Notes[/url]
 
 [url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
