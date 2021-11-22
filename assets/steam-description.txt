@@ -12,7 +12,7 @@ If anyone wants to read the explicit list I made of the changes, then please vis
 
 Removes some compatibility with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2286837494]Unique Shipset Mod[/url] because I don't use it and I don't want to see all the false-positive error messages.  The battleship bow XL1M2 section ([b]RIG_ASC_BATTLESHIP_BOW_1X2M[/b]) complained that each built-in game battleship bow XL1 entity did not have the locators added by that section.  The RIG:US role computers and weapons were removed in order to avoid error messages regarding missing component sets, ship sizes, component tags, projectile graphics, and technologies.
 
-Built for Stellaris version 3.1.* "Lem."  Not compatible with achievements.
+Built for Stellaris version 3.2.* "Herbert."  Not compatible with achievements.
 
 [h3]Required Dependency Mods[/h3]
 
